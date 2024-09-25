@@ -13,8 +13,8 @@ The overlay has multiple snap points:
 
 
 The tutorial I used for creating this:
-[Tutorial page](https://www.codingnepalweb.com/draggable-bottom-sheet-modal-html-css-javascript/)
-[Youtube](https://www.youtube.com/watch?v=Ac9Z6UtHdZ0)
+- [Tutorial page](https://www.codingnepalweb.com/draggable-bottom-sheet-modal-html-css-javascript/)
+- [Youtube](https://www.youtube.com/watch?v=Ac9Z6UtHdZ0)
 
 ## Reason for following the tutorial
 I followed this tutorial so I can understand a draggable, resizable overlay for the mobile [DICE](https://dicelabel.com/) clothing item overlay.
