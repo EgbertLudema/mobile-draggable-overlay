@@ -11,6 +11,7 @@ The overlay has multiple snap points:
 - Close overlay
   - When the height of the overlay is dragged to **25%** or **lower**. The overlay **closes** when let go off.
 
+---
 
 The tutorial I used for creating this:
 - [Tutorial page](https://www.codingnepalweb.com/draggable-bottom-sheet-modal-html-css-javascript/)
