@@ -10,3 +10,11 @@ The overlay has multiple snap points:
   - When the height of the overlay is dragged between **25%** till **50%**. The overlay snaps to **30%** height when let go off.
 - Close overlay
   - When the height of the overlay is dragged to **25%** or **lower**. The overlay **closes** when let go off.
+
+
+The tutorial I used for creating this:
+[Tutorial page](https://www.codingnepalweb.com/draggable-bottom-sheet-modal-html-css-javascript/)
+[Youtube](https://www.youtube.com/watch?v=Ac9Z6UtHdZ0)
+
+## Reason for following the tutorial
+I followed this tutorial so I can understand a draggable, resizable overlay for the mobile [DICE](https://dicelabel.com/) clothing item overlay.
