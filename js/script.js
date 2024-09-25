@@ -53,7 +53,7 @@ const dragStop = () => {
     if (sheetHeight < 25) {
         hideBottomSheet();
     } else if (sheetHeight >= 25 && sheetHeight < 50) {
-        updateSheetHeight(30); // Nieuw toegevoegd voor 30% stop
+        updateSheetHeight(30);
     } else if (sheetHeight >= 50 && sheetHeight < 75) {
         updateSheetHeight(70);
     } else {
@@ -61,10 +61,12 @@ const dragStop = () => {
     }
 }
 
+// Mouse eventlisteners
 dragIcon.addEventListener("mousedown", dragStart);
 document.addEventListener("mousemove", dragging);
 document.addEventListener("mouseup", dragStop);
 
+// Touch eventlisteners
 dragIcon.addEventListener("touchstart", dragStart);
 document.addEventListener("touchmove", dragging);
 document.addEventListener("touchend", dragStop);
